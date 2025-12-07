@@ -7,6 +7,8 @@ The objective is to understand whether ESG performance can be predicted using fi
 
 ##  Repository Structure
 
+### **EDA_ESG.ipynb**
+
 ### **Clustering_ESG.ipynb**
 This notebook explores unsupervised learning techniques to uncover natural groups of companies based on ESG and financial indicators.  
 It includes:
